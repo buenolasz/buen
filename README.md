@@ -11,5 +11,3 @@ Meu nome é bueno
 00001141722823sp@al.educacao.sp.gov.br
 
 @o.bueno7
-
-![descrição do GIF](link GIF do Tenor)
