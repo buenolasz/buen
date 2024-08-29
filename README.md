@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💙
 
-Meu nome é bueno
+Meu nome é Matheus Bueno
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -11,3 +11,5 @@ Meu nome é bueno
 00001141722823sp@al.educacao.sp.gov.br
 
 @o.bueno7
+
+![](https://media1.tenor.com/m/Em5BxiSLDNgAAAAd/dancinha-comemorando.gif)
